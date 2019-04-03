@@ -12,3 +12,5 @@ var moreThan1 = [];
 words.forEach(function(word){
   if(word.length >= 1){
     moreThan1.push("ay")
+    
+      var array = languageInput.split("");
