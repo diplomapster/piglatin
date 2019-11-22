@@ -2,7 +2,7 @@
 
 ##### _A tool to translate english into pig latin, April 2019_
 
-##### By **Maya Frame and Brendan Moroso**
+##### By **Maya Frame and Brendan**
 
 ## Description
 This tool changes a user's input from english to pig latin
@@ -51,4 +51,4 @@ If there are any issues, please contact the creator on github at [Diplomapster](
 
 *MIT 2019*
 
-Copyright (c) 2019 **Maya Frame and Brendan Moroso**
+Copyright (c) 2019 **Maya Frame and Brendan**
